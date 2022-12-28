@@ -23,7 +23,7 @@ Your project should have the following structure:
   "artist": <string>,
   "website": <string>,
   "policy_ids": <array>,
-  "storage_type": <integer>
+  "storage_type": <integer | null>
 }
 ```
 
@@ -32,12 +32,12 @@ Your project should have the following structure:
 - `artist`: name(s) of the artist(s)
 - `website`: a page with more info about the project
 - `policy_ids`: an array with the policy id(s)
-- `storage_type`:
+- `storage_type`: (optional)
   - `1` for monolithic on-chain
   - `2` for modular on-chain
 
 ### 3. Create a pull request
 
-Before creating a PR, make sure indentation is respected (2 spaces) and that the
-JSON is still valid.
+Before creating a PR, make sure the indentation is respected (2 spaces) and that
+the JSON is still valid.
 
