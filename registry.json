@@ -1,0 +1,22 @@
+[
+  {
+    "name": "DendroRithms",
+    "description": "**DendroRithms is a decentralised art installation inspired by tree growth rings.** Every Dendro is uniquely generated from user input using an interactive minting process. Buyers collectively decide the rarity and evolution of the artwork.",
+    "artist": "Wout Fierens",
+    "website": "https://dendrorithms.com",
+    "policy_ids": [
+      "2e9b243db48643acff0ff2d4170f734641ad3dfd9af492f854c1420c"
+    ],
+    "storage_type": 2
+  },
+  {
+    "name": "unsigend_algorithms",
+    "description": "The first algorithmically generated art living on Cardano. Mathematically derived and designed, generated using computers and advanced algorithms.",
+    "artist": "Alexander Watanabe",
+    "website": "https://www.unsigs.com",
+    "policy_ids": [
+      "0e14267a8020229adc0184dd25fa3174c3f7d6caadcb4425c70e7c04"
+    ],
+    "storage_type": 2
+  }
+]
