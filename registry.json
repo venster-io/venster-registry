@@ -18,5 +18,45 @@
       "0e14267a8020229adc0184dd25fa3174c3f7d6caadcb4425c70e7c04"
     ],
     "storage_type": 2
+  },
+  {
+    "name": "Rorschach Algorithm Beasts",
+    "description": "A collection of 999 hand-selected procedurally generated creatures. Creepy or cute, a frog, a bee or Cthulhu, Rorschach Algorithm Beasts come in various unique shapes. Infinity-evolution: Your NFT evolves continuously a little bit every day - forever!",
+    "artist": "nullHashPixel",
+    "website": "https://beasts.ink",
+    "policy_ids": [
+      "8a38146c49decd8f4a26b3b2c1ffaed696a503189b595bc4ee4e6056"
+    ],
+    "storage_type": 1
+  },
+  {
+    "name": "Butterfly Effect",
+    "description": "Animated crypto-butterflies based on real mathematical equations used in chaos theory.",
+    "artist": "nullHashPixel",
+    "website": "https://butterflyeffect.gallery",
+    "policy_ids": [
+      "f3a65485a9201e979e03aa4fa9f1d544332b7b8440bcd4aa4c6f7d1d"
+    ],
+    "storage_type": 1
+  },
+  {
+    "name": "Implicit Squiggles",
+    "description": "Abstract faces rendered with differential equations using the pareidolia effect.",
+    "artist": "nullHashPixel",
+    "website": "https://sqi.gl",
+    "policy_ids": [
+      "ce6531f93c19a08264981a9f50e657a8a00e9893235ec3fac78cfd44"
+    ],
+    "storage_type": 1
+  },
+  {
+    "name": "AI on-chain",
+    "description": "First fully on-chain generative AI NFT, containing the neural network evaluation code and all weights and biases in the NFT on-chain. Weights were trained with a different set of input images for each NFT.",
+    "artist": "nullHashPixel",
+    "website": "https://twitter.com/nullHashPixel",
+    "policy_ids": [
+      "6e25372902361b1908436ca854570dad54b12c0e5ee5a83fd52773ff"
+    ],
+    "storage_type": 1
   }
 ]
