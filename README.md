@@ -36,6 +36,12 @@ Your project should have the following structure:
   - `1` for monolithic on-chain
   - `2` for modular on-chain
 
+Note: the `storage_type` property is only required if your project has a
+non-standard approach. All monolithic on-chain projects using
+html/js/css/svg/gltf, and projects following the [Venster Metadata
+Standard](https://github.com/venster-io/venster-metadata-standard) should not
+define this property.
+
 ### 3. Create a pull request
 
 Before creating a PR, make sure the indentation is respected (2 spaces) and that
