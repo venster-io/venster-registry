@@ -1,5 +1,23 @@
 [
   {
+    "name": "venster.io internal assets",
+    "description": "A collection of on-chain assets, including fonts and JavaScript Libraries, available to anyone using the Venster Metadata Standard. While they are all open-source, every single one comes with its own license, so double-check before using them.",
+    "artist": "venster.io",
+    "website": "https://github.com/venster-io/venster-internal-assets",
+    "policy_ids": [
+      "3333c36c4ba8b1ebc504e6865b3950ef0a101707b7e7e7de0b4ef323"
+    ]
+  },
+  {
+    "name": "venster.io modular on-chain examples",
+    "description": "A collection of modular on-chain tokens using the Venster Metadata Standard. These tokens aim to illustrate how modular on-chain NFTs can be composed using different types of dependencies.",
+    "artist": "venster.io",
+    "website": "https://github.com/venster-io/venster-examples",
+    "policy_ids": [
+      "3333acb55ed79731ea6658abb74f453cbb87e15aee01a7aab484b2a6"
+    ]
+  },
+  {
     "name": "DendroRithms",
     "description": "**DendroRithms is a decentralised art installation inspired by tree growth rings.** Every Dendro is uniquely generated from user input using an interactive minting process. Buyers collectively decide the rarity and evolution of the artwork.",
     "artist": "MICK+WOUT",
