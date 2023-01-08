@@ -37,7 +37,7 @@
       "ipfs://QmTYenju61hi1CLgPhQaXmo3vkrcuNAvaVG2hKFJc5z3EA"
     ],
     "storage_type": 2,
-    "metadata_property": "dendro"
+    "metadata_properties": ["dendro", "genesis_code_key"]
   },
   {
     "name": "unsigned_algorithms",
