@@ -53,7 +53,7 @@
       "ipfs://QmVFFtqBmynoA3jBakzAAA1T3AtgyKGkn5nrJXKNzNhBfw"
     ],
     "storage_type": 2,
-    "metadata_property": "unsigs"
+    "metadata_properties": ["unsigs", "source_key"]
   },
   {
     "name": "Rorschach Algorithm Beasts",
