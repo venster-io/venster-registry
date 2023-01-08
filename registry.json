@@ -9,7 +9,8 @@
     ],
     "policy_ids": [
       "3333c36c4ba8b1ebc504e6865b3950ef0a101707b7e7e7de0b4ef323"
-    ]
+    ],
+    "explorable": false
   },
   {
     "name": "venster.io modular on-chain examples",
@@ -21,7 +22,8 @@
     ],
     "policy_ids": [
       "3333acb55ed79731ea6658abb74f453cbb87e15aee01a7aab484b2a6"
-    ]
+    ],
+    "explorable": false
   },
   {
     "name": "DendroRithms",
