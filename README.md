@@ -23,6 +23,7 @@ Your project should have the following structure:
   "artist": <string>,
   "website": <string>,
   "policy_ids": <array>,
+  "images": <array>,
   "storage_type": <integer | null>
 }
 ```
@@ -32,6 +33,8 @@ Your project should have the following structure:
 - `artist`: name(s) of the artist(s)
 - `website`: a page with more info about the project
 - `policy_ids`: an array with the policy id(s)
+- `images`: an array with the image uri(s) (e.g. `ipfs://...`, `ar://...`,
+  `https://...` or `data:...`)
 - `storage_type`: (optional)
   - `1` for monolithic on-chain
   - `2` for modular on-chain

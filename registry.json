@@ -4,6 +4,9 @@
     "description": "A collection of on-chain assets, including fonts and JavaScript Libraries, available to anyone using the Venster Metadata Standard. While they are all open-source, every single one comes with its own license, so double-check before using them.",
     "artist": "venster.io",
     "website": "https://github.com/venster-io/venster-internal-assets",
+    "images": [
+      "ipfs://QmeLQvQQqn2uZZb7TUg3cRXs7vEGVpx7hvD3ozMeprCRYt"
+    ],
     "policy_ids": [
       "3333c36c4ba8b1ebc504e6865b3950ef0a101707b7e7e7de0b4ef323"
     ]
@@ -13,6 +16,9 @@
     "description": "A collection of modular on-chain tokens using the Venster Metadata Standard. These tokens aim to illustrate how modular on-chain NFTs can be composed using different types of dependencies.",
     "artist": "venster.io",
     "website": "https://github.com/venster-io/venster-examples",
+    "images": [
+      "ipfs://Qma1mdrD69PTdpAUk9qDy19VdnmULyi6Xiw48ahViCPG1Z"
+    ],
     "policy_ids": [
       "3333acb55ed79731ea6658abb74f453cbb87e15aee01a7aab484b2a6"
     ]
@@ -25,7 +31,13 @@
     "policy_ids": [
       "2e9b243db48643acff0ff2d4170f734641ad3dfd9af492f854c1420c"
     ],
-    "storage_type": 2
+    "images": [
+      "ipfs://QmUXNAw9wWrfDCJCiTHui8gGwfhx4NRwTtUs4yWBg1SEtC",
+      "ipfs://QmcrAkozrSNxBrGWqaqQFBoyWoiMpHUSeT1uB6hC7SADUu",
+      "ipfs://QmTYenju61hi1CLgPhQaXmo3vkrcuNAvaVG2hKFJc5z3EA"
+    ],
+    "storage_type": 2,
+    "metadata_property": "dendro"
   },
   {
     "name": "unsigned_algorithms",
@@ -35,7 +47,13 @@
     "policy_ids": [
       "0e14267a8020229adc0184dd25fa3174c3f7d6caadcb4425c70e7c04"
     ],
-    "storage_type": 2
+    "images": [
+      "ipfs://QmZSjh46szDSfYZq1rHQ7STvhujparYE3c73ms4mfdDc47",
+      "ipfs://QmacUuwqdK7W8Eu4Hn7bwm8TandpaHtpLtNaif6nTViRPv",
+      "ipfs://QmVFFtqBmynoA3jBakzAAA1T3AtgyKGkn5nrJXKNzNhBfw"
+    ],
+    "storage_type": 2,
+    "metadata_property": "unsigs"
   },
   {
     "name": "Rorschach Algorithm Beasts",
@@ -44,6 +62,11 @@
     "website": "https://beasts.ink",
     "policy_ids": [
       "8a38146c49decd8f4a26b3b2c1ffaed696a503189b595bc4ee4e6056"
+    ],
+    "images": [
+      "ipfs://QmRVG5DaVFtamFYgJWQM1YsAYSPyjRDucboRfHndzAXUHR",
+      "ipfs://QmcUFog4d9hVotEg6yKZZGfvv7tcTqy4iepHLLGDZQmaRL",
+      "ipfs://QmXfWECWsqWuWW9E45tX8RMjBSKhoHQeW22JfWe4A2CqVn"
     ],
     "storage_type": 1
   },
@@ -55,6 +78,11 @@
     "policy_ids": [
       "f3a65485a9201e979e03aa4fa9f1d544332b7b8440bcd4aa4c6f7d1d"
     ],
+    "images": [
+      "ipfs://QmYqhXadX6u99teKPLvMP2gGbm3jbufsHYEmX7vwKjkygL",
+      "ipfs://QmcZmkhqTvFP3gTm7rE1gtXp3As3TrKb2ZUV3aCEmx816S",
+      "ipfs://QmbvuHLrGf6AoCRuoA1sm5EeXFPmVD57dwkeLyYj49Khoh"
+    ],
     "storage_type": 1
   },
   {
@@ -65,6 +93,11 @@
     "policy_ids": [
       "ce6531f93c19a08264981a9f50e657a8a00e9893235ec3fac78cfd44"
     ],
+    "images": [
+      "ipfs://QmdJpxAjw12LoXLa1D8KrPnmuWR57dLqYJt3GZPHpaQGvT",
+      "ipfs://QmRvEQ8PUmyFoSanPr8rWmHTHXgnRBdMd7M3mYTxiVPjaE",
+      "ipfs://QmdjTN9CkNv1J5PLuz6APvk8WHizewFwumVoShrKYeSnHN"
+    ],
     "storage_type": 1
   },
   {
@@ -74,6 +107,9 @@
     "website": "https://twitter.com/nullHashPixel",
     "policy_ids": [
       "6e25372902361b1908436ca854570dad54b12c0e5ee5a83fd52773ff"
+    ],
+    "images": [
+      "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAACgCAIAAAAErfB6AAAGrUlEQVR42u3dTW9cVx3H8f85996ZsT1jx3bscXBI0uB2EQENKUUqQkLQAioIdlRFrKgAwQIJJFjxApDYIZolUAlaVFWBBiL6JFUqi6otQjRJ24S0hOAQ2zjx03jGc2fuveewHvQdCbbo99XnFfjn85e8GI/vre6h/Pw2Kl98Cw1//DDqHZtAi/UMHa+xx2oTaHvyKNqvL6Cy9hlUZI+hsnE3Gjbn0a16C32t/ml0sjaJ3jfGQn0OLTamkTf1f50G1sBKAysNrDSw0sDqfx749Sv7aOud91C4OEDu+S3U6wU07wx9dIxvG5twKcpchULcYXYdmSXIVyW6HgN6xxK0E9n+GEWcR3nMkF6wTrTSwEoDKw2sNLDSwGp04J+ff4H94RUULt9ik3uoMEPOO/QhM9T2HmVpB6U+R8E2UGFNZNGjYBW6ZhFt2HdQaW0U7BAq7NgYC0gvWCdaaWClgZUGVhpYaWA1OvD27Qtoaev3aHj1FrL5BppoOXQnePS6Yz0LyCxnMSBvLZTaPIpuGVlyCL1kCVrxx1HqHkLRfQlV/kEUfAvpBetEKw2sNLDSwEoDKw2sRgf+3AeHqNmYQ2m1imK/j9JhRLl5dCk6FMb8YRsDc2bMNVHivoCcHUfRmugrlqJ7k5Mocw8gb0eR2R5ysYv0gnWilQZWGlhpYKWBlQZWowMPnt1DT951DR2pHkeLr66iX8ykyJpN9OiyQ1ltCh34h1A4tYBc9hKy7EE0nHgc3Zx5Br1xzyI631pB2YnvIv/xsyht/xZFGyC9YJ1opYGVBlYaWGlgpYHV6MAfabD3nwkoTnrkHTuynKFh0UcXyxLdKAdop1hFsZsjq3ZRXnbRTmnonDXQxkGF5s2QT1LUiCxbrCHvCqbfcZ1opYGVBlYaWGlgpYHVyMAt30Un/tFHbt6jbK6OTtzbRqGq0NWOoeesQv14gGIoUWkVumiTaNz/eX45X0avuha62WfdzQoFV6C5xgAlLkN6wTrRSgMrDaw0sNLASgOr0YFP5DdR0uggt1EimzHUPJ0gCxE1G4bG/d+rjruDYhyiKs6gGWug1yqH3i48GvZX0M5wG/X6Jepe7qLO2jpK7TbSC9aJVhpYaWClgZUGVhpYjQ6ctIfo6hXmd0pU5ayztod86tCgMPSIi6jjKuQOIgrmUD9GNOZrk8yN+eKnnf4SCsGhWJaoygeou1uiYSiQXrBOtNLASgMrDaw0sNLAanTg028dRr/6U4oOkjnk8zb60dku2j2TogvtKfT15Hvoq3YDfbK2iibfvB/dt3UM/fAHLfRufgStd3PUX1pCufesXET7+TfQejKN9IJ1opUGVhpYaWClgZUGVqMDJ2UXxapg+QDlh7dRVpSo6lToja2INqvbqBsSFIYR2XqdFQ0U/2aoHx1yliDbP2DVmE8sxwLF6jLqhBzpBetEKw2sNLDSwEoDKw2sRgf+1uECNQ9XKJt1yKoMrVtEm7spejFxaBA3ULRdZPVV9psV9vdJFK4biq5CZguoHARmhsZ8fNrKeBN14hDpBetEKw2sNLDSwEoDKw2sRgd+5BMBPXHGUPtkhqYaEX2xTNGg4dCwZD5ZQEk6QDYfUPyLQ+VrR9FgbhI1kjoy10Xd8DFklo5xBCX+HtRyKdIL1olWGlhpYKWBlQZWGliNDjzrKrRyt0P3fTagxVNT6FK9hmqdBH05c2gpm0bNWoE+bAHZnc+z1ZPIxRryiWduiBI7jZxbZP5h5LMH0GythfSCdaKVBlYaWGlgpYGVBlajA9+fBvT0oxF9/1N99MrxNfTT2V309HYP/foOS3tPoUH3CfTLS08hd+N3KPnZOZS+vI38kFnyDKqVf0RJrY1c8wILZ1F92EN6wTrRSgMrDaw0sNLASgOr/xg4C+jPtyJ69t0KPblt6HKHHcSIBubQzBhJ/ACyeAVF67BBDY352qQYLUHOZWjc53qtusXCJrMD5GKB9IJ1opUGVhpYaWClgZUGVqMDd5qG3l5jz/XZT17w6Js9Q7lL0YRL0JxlyNm5Ma6hGE+h0uaRG1OSGrLpgHLbRtH2kSU9FktmAekF60QrDaw0sNLASgMrDaxGB852DJWz7MbzFfrnXwNa6xl606foXzaFNt00St0GitZHhVVop3CoSphlxpYztGUpMqtYKFmskIsR6QXrRCsNrDSw0sBKAysNrEYHbrUd2t+KaDBToWARFdHQejWFomXIjZHEfWYVKuM6OhT30PifXGS3e6hhEVk0lkbmjekF60QrDaw0sNLASgMrDaz+m/4NClEuWOisg0cAAAAASUVORK5CYII="
     ],
     "storage_type": 1
   }
