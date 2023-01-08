@@ -29,7 +29,7 @@ Your project should have the following structure:
 ```
 
 - `name`: the project's name
-- `description`: a description of a maximum of 300 characters (markdown enabled)
+- `description`: the project's description (markdown enabled)
 - `artist`: name(s) of the artist(s)
 - `website`: a page with more info about the project
 - `policy_ids`: an array with the policy id(s)
@@ -39,7 +39,7 @@ Your project should have the following structure:
   - `1` for monolithic on-chain
   - `2` for modular on-chain
 
-Note: the `storage_type` property is only required if your project has a
+**Note**: the `storage_type` property is only required if your project has a
 non-standard approach. All monolithic on-chain projects using
 html/js/css/svg/gltf, and projects following the [Venster Metadata
 Standard](https://github.com/venster-io/venster-metadata-standard) should not
