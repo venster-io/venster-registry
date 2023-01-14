@@ -128,5 +128,29 @@
       "ipfs://QmbuXVDb1GptVUBrDfSZ1m4c8rJc5MhABLRtQ4QgxxEKmA",
       "ipfs://QmTQmBY1tXGE5CLmZp6yctxVYHZpqaWicVAntrCkNYeDeF"
     ]
+  },
+  {
+    "name": "Cardano Block Clocks",
+    "description": "Cardano Block Clocks are generated using on chain code featuring animated backgrounds with an optional display of UTC and epoch countdowns for degen minters!",
+    "artist": "hookman",
+    "website": "https://cardanoblockclocks.hookman.co.uk/",
+    "policy_ids": [
+      "ed6bde8a9c920d77e39b41db84381409dae6e2f6557e56ae97fcfe3b"
+    ],
+    "images": [
+      "ipfs://QmPUQ2mpWcXgvgAVsSPjDNbhBdMZuE5z2Loq721EuJff9T"
+    ]
+  },
+  {
+    "name": "Shader Wars",
+    "description": "An on chain generative audiovisual interactive playable arcade game project",
+    "artist": "hookman",
+    "website": "https://shaderwars.hookman.co.uk/",
+    "policy_ids": [
+      "a1099cab55cc5b7f97b08186fbd326fe788e0ea89e398b21e595979f"
+    ],
+    "images": [
+      "ipfs://QmP8tgvskhsnwJQ7ydQVnWHkEsvmMZpxKES4MNZQrzmLFz"
+    ]
   }
 ]
