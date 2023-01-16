@@ -152,5 +152,21 @@
     "images": [
       "ipfs://QmP8tgvskhsnwJQ7ydQVnWHkEsvmMZpxKES4MNZQrzmLFz"
     ]
+  },
+  {
+    "name": "unspins.qoob",
+    "description": "First algorithmic 3D on-chain art NFT collection on Cardano.",
+    "artist": "WooH㋡",
+    "website": "https://unspins.io/",
+    "policy_ids": [
+      "9ff10290e2e77b71b70112118bbf693b57c32ecb21525e2aba4b100a"
+    ],
+    "images": [
+      "ipfs://QmQ7FHYHrtziGVSoQpA6VMNi9keRFhknqCT9EPq6w7eoKM",
+      "ipfs://QmeiejXfMFsWKui4F59gssRttdWf7WesCNJEWhMU7KoQeb",
+      "ipfs://QmYGcvQHcvQUQfp7d1Em8DpGrT55ZkL7sbTjzzBxURvmca"
+    ],
+    "storage_type": 2,
+    "metadata_properties": ["Properties"]
   }
 ]
